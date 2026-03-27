@@ -1,0 +1,10 @@
+{
+  "name": "campsardegna-eventi-fetcher",
+  "version": "1.0.0",
+  "description": "Legge feed RSS eventi Sardegna e aggiorna WordPress via REST API",
+  "main": "fetch-eventi.js",
+  "dependencies": {
+    "rss-parser": "^3.13.0",
+    "node-fetch": "^3.3.2"
+  }
+}
