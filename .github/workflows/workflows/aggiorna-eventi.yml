@@ -1,5 +1,6 @@
 name: CampSardegna – Aggiorna Eventi Sardegna
 
+
 on:
   schedule:
     # 06:00 UTC = 08:00 ora italiana (CET/CEST)
